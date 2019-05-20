@@ -1,3 +1,2 @@
-# SignIn.Org
 
-stealth mode
+# SignIn.Org is in stealth mode
