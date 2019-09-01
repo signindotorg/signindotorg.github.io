@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="558 121 884 509" width="884" height="509">
+  <defs>
+    <font-face font-family="Comic Sans MS" font-size="16" panose-1="3 15 9 2 3 3 2 2 2 4" units-per-em="1000" underline-position="-132.8125" underline-thickness="85.44922" slope="0" x-height="522.9492" cap-height="749.0234" ascent="1102.0508" descent="-291.5039" font-weight="700">
+      <font-face-src>
+        <font-face-name name="ComicSansMS-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.2 
+    <dc:date>2019-09-01 22:23:04 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="558" y="121" width="884" height="509"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <title>Rounded square</title>
+        <path d="M 1022.5 311 L 1078.4432 311 C 1092.2504 311 1103.4432 322.1929 1103.4432 336 L 1103.4432 391.94325 C 1103.4432 405.75036 1092.2504 416.94325 1078.4432 416.94325 L 1022.5 416.94325 C 1008.6929 416.94325 997.5 405.75036 997.5 391.94325 L 997.5 336 C 997.5 322.1929 1008.6929 311 1022.5 311 Z"/>
+        <path d="M 1021.781 310.99782 L 1080.4472 311.17556 C 1092.7169 311.9542 1103.1126 321.44677 1103.4432 336 M 1103.4677 334.7515 L 1102.325 393.0619 C 1104.3244 404.7022 1091.0889 416.42653 1078.4432 416.94325 M 1079.8007 416.94243 L 1020.8802 416.978 C 1009.8789 417.93576 998.1767 406.62355 997.5 391.94325 M 997.5338 393.4706 L 996.2472 335.27208 C 997.19 322.3089 1007.4259 309.95772 1022.5 311 M 1022.0942 310.4564 L 1079.1415 310.65514 C 1093.3419 311.3292 1103.7376 320.82177 1104.0682 335.375 M 1103.929 334.44192 L 1102.7612 390.96297 C 1104.9494 404.0772 1091.7139 415.80153 1079.0682 416.31825 M 1080.1132 416.6678 L 1021.8645 416.81636 C 1010.5039 417.31076 998.8017 405.99855 998.125 391.31825 M 997.6384 393.1627 L 996.3585 335.95904 C 997.815 321.6839 1008.0509 309.33272 1023.125 310.375" stroke="#f4593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(1002.5 340.97162)" fill="black">
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="29.866154" y="18">User</tspan>
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="25.252872" y="41">Portal</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <title>Rhombus</title>
+        <path d="M 620.5384 311 L 677.5768 375.0431 L 620.5384 432.6819 L 563.5 375.0431 Z"/>
+        <path d="M 619.7989 310.15513 L 678.0153 376.6663 M 677.4465 375.0412 L 618.21485 434.7175 M 620.50684 434.0678 L 563.115 375.53652 M 562.7348 376.97963 L 621.7156 309.65625 M 620.14175 309.81606 L 677.3754 375.12445 M 677.7797 374.74927 L 620.1984 433.11666 M 620.7269 433.8459 L 563.8807 375.7136 M 562.9332 376.5672 L 620.65895 310.51935" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(568.5 360.34095)" fill="black">
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="30.22589" y="18">Client</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <title>Star</title>
+        <path d="M 1235.9764 480 L 1210.3519 529.7359 L 1150 528.95705 L 1193.6929 566.0381 L 1182.1196 622 L 1235.722 587.1517 L 1292.2683 622 L 1278.2598 566.1237 L 1329 530.2388 L 1257.1181 528.95705 Z"/>
+        <path d="M 1236.2753 479.44275 L 1208.7216 530.80086 M 1211.7322 529.4869 L 1148.4748 528.5335 M 1148.7067 527.1243 L 1196.3357 567.8522 M 1195.2456 564.47284 L 1181.7382 623.1472 M 1181.3745 622.51335 L 1236.527 585.35044 M 1234.8826 585.4002 L 1292.256 623.3613 M 1291.6674 624.585 L 1278.4736 565.28885 M 1278.2637 567.65615 L 1330.1871 529.74365 M 1329.8264 530.63 L 1255.9246 528.48386 M 1258.0566 529.95996 L 1235.1573 478.14674 M 1236.7516 479.2181 L 1209.899 529.2158 M 1212.0414 529.3977 L 1150.7004 528.2844 M 1149.1798 526.62394 L 1195.23 566.03826 M 1195.8375 564.22467 L 1182.5495 621.8541 M 1181.5807 622.0431 L 1235.9226 585.5156 M 1235.2301 585.0348 L 1291.6432 622.25365 M 1291.9523 624.27864 L 1278.9446 566.94 M 1278.5339 567.2857 L 1329.2983 530.2662 M 1330.136 530.41926 L 1257.7354 528.235 M 1258.1672 529.7367 L 1236.0254 479.80395" stroke="#f0cf11" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(1155 528)" fill="black">
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="61.746094" y="18">Token</tspan>
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="55.921875" y="41">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <title>Badge</title>
+        <path d="M 1324.5 320.94325 L 1437.5061 320.94325 L 1437.5061 382.65753 L 1383.9769 416.94325 L 1324.5 382.65753 Z"/>
+        <path d="M 1322.4831 320.9617 L 1437.7843 319.9075 M 1436.2648 317.86524 L 1436.6427 385.5529 M 1437.8049 383.0858 L 1382.2309 417.76123 M 1385.6464 418.13685 L 1322.9116 381.9423 M 1324.5886 385.118 L 1324.499 320.17205 M 1322.7954 320.6304 L 1436.5867 319.38082 M 1436.6822 317.55215 L 1437.0487 383.5039 M 1438.1451 382.81776 L 1383.9282 416.711 M 1385.956 417.82935 L 1324.8927 382.60484 M 1324.779 384.8057 L 1324.8002 320.63076" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(1329.5 357.44325)" fill="black">
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="20.042126" y="18">Provider</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <title>Circle</title>
+        <ellipse cx="968.388" cy="564.4995" rx="86.3881750983188" ry="39.9716864767756"/>
+        <path d="M 1029.4735 536.23536 C 1066.0269 554.04444 1063.0678 577.3447 1029.4735 592.7637 C 995.4333 611.6856 942.1257 609.0089 907.3025 592.7637 C 874.6054 580.55056 873.5485 552.2162 907.3025 536.23536 C 942.7704 519.136 999.156 520.9562 1029.4735 536.23536 M 1029.4735 536.23536 C 1066.6519 553.41944 1063.6928 576.7197 1030.0985 592.1387 C 996.0583 611.0606 942.7507 608.3839 907.9275 592.1387 C 875.2304 579.92556 874.1735 551.5912 907.9275 535.61036 C 943.3954 518.511 999.781 520.3312 1030.0985 535.61036" stroke="#8ebd5b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(904.2776 541.4995)" fill="black">
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="33.579178" y="18">Storage</tspan>
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="35.532303" y="41">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <title>Square</title>
+        <rect x="808" y="311" width="105.94325" height="105.94325"/>
+        <path d="M 806.9639 311 L 916.0312 311.001 M 914.5904 309.40786 L 913.0272 417.5912 M 914.6404 416.2149 L 804.6183 415.94626 M 807.065 417.91995 L 808.0101 309.8418 M 807.2764 310.37774 L 914.8799 310.63804 M 915.0835 309.09797 L 913.6 415.902 M 914.9522 416.1903 L 807.3943 415.83496 M 807.1541 417.6055 L 808.2436 310.6869" stroke="#0da7a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(813 340.97162)" fill="black">
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="10.37006" y="18">Developer</tspan>
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="25.252872" y="41">Portal</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <title>Square</title>
+        <path d="M 653.0793 128.50273 L 1310.7428 127.76084 M 1309.3003 126.40056 L 1309.3431 195.52446 M 1310.1042 194.32172 L 653.6066 194.51948 M 655.585 196.6572 L 655.4982 127.03007 M 653.3916 128.0475 L 1309.6135 127.33203 M 1309.675 126.08802 L 1309.964 194.00926 M 1310.4168 194.10236 L 655.8949 194.28932 M 655.65606 196.345 L 655.7121 128.18763" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(660.5 149.5)" fill="black">
+          <tspan font-family="Comic Sans MS" font-size="16" font-weight="700" fill="black" x="290.97266" y="18">Browser</tspan>
+        </text>
+      </g>
+      <g id="Group_18">
+        <title>Arrow</title>
+        <g id="Graphic_22">
+          <path d="M 897.8059 517.463 L 872.4875 423.9048 M 872.3535 423.4098 L 897.7162 517.13136 M 898.0847 517.1596 L 872.9567 424.8139 M 872.6797 423.09357 L 897.9116 515.8943" stroke="#10b9bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_19">
+          <g id="Graphic_21">
+            <path d="M 885.6303 510.3948 L 899.7713 521.3674 Z" stroke="#10b9bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_20">
+            <path d="M 906.5252 504.79174 L 899.7713 521.3674 Z" stroke="#10b9bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_23">
+        <title>Arrow</title>
+        <g id="Graphic_27">
+          <path d="M 1166.0338 508.92924 L 1100.9449 416.00623 M 1101.1497 416.2987 L 1166.5797 509.70864 M 1166.2338 508.69554 L 1101.7359 416.71296 M 1101.5016 415.95864 L 1166.083 507.9593" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_24">
+          <g id="Graphic_26">
+            <path d="M 1150.5657 505.196 L 1171.7376 516.7852 Z" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_25">
+            <path d="M 1168.0885 492.9264 L 1171.7376 516.7852 Z" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_28">
+        <title>Arrow</title>
+        <g id="Graphic_32">
+          <path d="M 1074.9348 563.7016 L 1171.8179 566.06215 M 1173.1781 566.0928 L 1135.6014 565.2168 M 1138.6222 565.2899 L 1075.914 563.7249 M 1075.2531 563.14946 L 1171.1374 565.50766 M 1173.486 565.9749 L 1137.3069 565.056 M 1138.927 565.28556 L 1077.2276 563.6979" stroke="#f0cf11" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_29">
+          <g id="Graphic_31">
+            <path d="M 1085.9988 553.5313 L 1071.3733 563.7228 Z" stroke="#f0cf11" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_30">
+            <path d="M 1085.2522 574.90965 L 1071.3733 563.7228 Z" stroke="#f0cf11" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_38">
+        <title>Arrow</title>
+        <g id="Graphic_42">
+          <path d="M 787.6259 372.76626 L 692.9159 370.7022 M 692.13294 370.68513 L 788.7127 372.78994 M 787.9356 372.5857 L 693.9995 370.6742 M 692.4487 370.22303 L 787.111 372.17486" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_39">
+          <g id="Graphic_41">
+            <path d="M 777.9079 382.41057 L 792.3533 371.9654 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_40">
+            <path d="M 778.2812 361.02244 L 792.3533 371.9654 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_58">
+        <title>Curved arrow</title>
+        <g id="Line_62">
+          <path d="M 1095.2898 303.0625 C 1096.2843 301.5 1141.2802 206.7647 1213 202 C 1287.0882 207.49813 1346.1654 303.6732 1347.354 305.16735 M 1095.2898 303.0625 C 1097.5343 300.25 1142.5302 205.5147 1214.25 200.75 C 1288.3382 206.24813 1347.4154 302.4232 1348.604 303.91735" stroke="#f4593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_59">
+          <g id="Graphic_61">
+            <path d="M 1352.8467 294.1683 L 1354.5182 314.11686 Z" stroke="#f4593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_60">
+            <path d="M 1329.6065 296.8601 L 1354.5182 314.11686 Z" stroke="#f4593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_63">
+        <title>Curved arrow</title>
+        <g id="Line_67">
+          <path d="M 641.4654 322.27613 C 644 320.35617 686.823 286.58002 775.332 250.95885 C 864.2109 222.76753 904.3912 192.36342 989.9295 199.91293 C 1063.499 215.55324 1063 300 1063.5191 302.5632 M 641.4654 322.27613 C 645.25 319.10617 688.073 285.33002 776.582 249.70885 C 865.4609 221.51753 905.6412 191.11342 991.1795 198.66293 C 1064.749 214.30324 1064.25 298.75 1064.7691 301.3132" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_64">
+          <g id="Graphic_66">
+            <path d="M 1076.2574 279.18904 L 1066.4555 304.50666 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_65">
+            <path d="M 1042.883 280.09387 L 1063.8139 304.81356 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_73">
+        <title>Arrow</title>
+        <g id="Graphic_77">
+          <path d="M 1345.6164 409.6511 L 1272.2482 514.9288 M 1272.5471 514.4603 L 1301.0255 475.0501 M 1299.5843 477.1204 L 1344.849 410.73277 M 1346.1123 409.46647 L 1273.7402 513.15075 M 1272.7138 514.0424 L 1300.7473 475.41406 M 1299.8545 476.77905 L 1344.3425 411.1843" stroke="#f0cf11" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_74">
+          <g id="Graphic_76">
+            <path d="M 1349.1157 422.66806 L 1348.3731 405.6409 Z" stroke="#f0cf11" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_75">
+            <path d="M 1330.59 412.39653 L 1348.3731 405.6409 Z" stroke="#f0cf11" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_78">
+        <title>Arrow</title>
+        <g id="Graphic_82">
+          <path d="M 1013.2968 514.2576 L 1026.2287 423.72984 M 1026.1508 424.2754 L 1013.2688 514.4537 M 1013.596 513.9432 L 1026.1383 425.14373 M 1026.5702 423.9782 L 1014.0807 512.15205" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_79">
+          <g id="Graphic_81">
+            <path d="M 1004.9069 498.32905 L 1012.5916 520.5012 Z" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_80">
+            <path d="M 1026.0901 501.30616 L 1012.5916 520.5012 Z" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_53">
+        <title>Curved arrow</title>
+        <g id="Line_57">
+          <path d="M 886.9801 297.53298 C 888.5 293.5377 917.1709 199.52333 951.099 201.9974 C 987.369 205.14928 1019 294.12124 1019.6648 295.5874 M 886.9801 297.53298 C 889.75 292.2877 918.4209 198.27333 952.349 200.7474 C 988.619 203.89928 1020.25 292.87124 1020.9148 294.3374" stroke="#10b9bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_54">
+          <g id="Graphic_56">
+            <path d="M 1015.0184 267.90306 L 1027.0856 302.9336 Z" stroke="#10b9bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_55">
+            <path d="M 1000.5298 277.09673 L 1027.0856 302.9336 Z" stroke="#10b9bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_83">
+        <title>Arrow</title>
+        <g id="Graphic_87">
+          <path d="M 926.6431 367.78173 L 983.7315 366.5942 M 984.1853 366.58474 L 927.0248 367.7738 M 926.9532 367.3534 L 982.3853 366.13646 M 984.5008 366.41404 L 928.2251 367.689" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Group_84">
+          <g id="Graphic_86">
+            <path d="M 935.6192 357.22613 L 923 367.92182 Z" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <g id="Graphic_85">
+            <path d="M 935.6192 378.6175 L 923 367.92182 Z" stroke="#f3593b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
