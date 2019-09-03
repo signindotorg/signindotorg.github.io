@@ -1,13 +1,17 @@
 title: SignIn.Org
-description: Creating the Internet Identity Layer
-minima:
-  social_links:
-    twitter: signindotorg
-    github: signindotorg
+
+description: Creating the Internet Identity Layer - take 2
+
+#minima:
+#  social_links:
+#    twitter: signindotorg
+#    github: signindotorg
     #facebook: SignIn.Org
-    instagram: signindotorg
-    linkedin: signindotorg
+#    instagram: signindotorg
+#    linkedin: signindotorg
     #telegram: signindotorg
+
+#header_pages:
 
 theme: minima
 
