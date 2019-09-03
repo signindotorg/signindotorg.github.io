@@ -5,8 +5,8 @@ title: "SignIn.Org"
 
 ---
 
-#SignIn.Org
+The Internet is missing an identity layer. 
 
-The Internet is missing an identity layer. Working together we can provide one. Will you join with us?
+Working together we can provide one. 
 
-test2
+Will you join with us?
