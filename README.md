@@ -1,2 +1,6 @@
 
-# SignIn.Org is in stealth mode
+# SignIn.Org
+
+Creating the Internet Identity Layer
+
+
