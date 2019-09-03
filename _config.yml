@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: minima
 title: SignIn.Org
 description: Creating the Internet Identity Layer
-show_downloads: "false"
+show_downloads: false
