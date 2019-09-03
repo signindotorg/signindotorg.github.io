@@ -3,13 +3,8 @@ email: info@SignIn.Org
 description: SignIn.Org is a consortium of industry leaders working to solve personal online identity.
 author: contact us at:
 
-minima:
-  social_links:
-    twitter: signindotorg
-    github: signindotorg
+twitter_username: signindotorg
+github_username:  signindotorg
+linkedin_username: signindotorg
 
 theme: minima
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
