@@ -6,9 +6,7 @@ minima:
   social_links:
     twitter: signindotorg
     github: signindotorg
-    facebook: SignIn.Org
-    flickr: jekyll
-    instagram: jekyll
+    #facebook: SignIn.Org
+    instagram: signindotorg
     linkedin: signindotorg
-    pinterest: signindotorg
-    telegram: signindotorg
+    #telegram: signindotorg
