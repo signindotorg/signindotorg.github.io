@@ -1,3 +1,1 @@
-#SignIn.Org
-
-The Internet is missing an identity layer. Working together we can provide one. Will you join with us?
+This is the Jekyll source for signin.org web site.
