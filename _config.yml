@@ -1,7 +1,6 @@
 theme: minima
 title: SignIn.Org
 description: Creating the Internet Identity Layer
-show_downloads: false
 minima:
   social_links:
     twitter: signindotorg
