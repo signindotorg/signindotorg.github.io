@@ -11,8 +11,8 @@ minima:
 #    linkedin: signindotorg
     #telegram: signindotorg
 
-header_pages:
-  - about.md
+#header_pages:
+#  - about.md
 
 theme: minima
 
