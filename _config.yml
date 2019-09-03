@@ -1,4 +1,3 @@
-theme: minima
 title: SignIn.Org
 description: Creating the Internet Identity Layer
 minima:
@@ -9,3 +8,6 @@ minima:
     instagram: signindotorg
     linkedin: signindotorg
     #telegram: signindotorg
+
+theme: minima
+
