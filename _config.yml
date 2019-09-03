@@ -2,17 +2,11 @@ title: Creating the Internet Identity Layer
 email: info@SignIn.Org
 description: SignIn.Org is a consortium of industry leaders working to solve personal online identity.
 author: contact
+
 minima:
   social_links:
     twitter: signindotorg
     github: signindotorg
-    #facebook: SignIn.Org
-#    instagram: signindotorg
-#    linkedin: signindotorg
-    #telegram: signindotorg
-
-#header_pages:
-#  - about.md
 
 theme: minima
 
