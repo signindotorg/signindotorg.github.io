@@ -1,5 +1,5 @@
 title: SignIn.Org
-
+email: info@SignIn.Org
 description: Creating the Internet Identity Layer - take 2
 
 #minima:
@@ -11,7 +11,8 @@ description: Creating the Internet Identity Layer - take 2
 #    linkedin: signindotorg
     #telegram: signindotorg
 
-#header_pages:
+header_pages:
+  - about.md
 
 theme: minima
 
